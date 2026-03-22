@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imfailing
-- 👀 I’m interested in Data Engineering
-- 🌱 I’m currently learning Scala
+- 👀 I’m interested in Data Engineering and ML
+- 🌱 I’m currently learning AI
 
 <!---
 imfailing/imfailing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
